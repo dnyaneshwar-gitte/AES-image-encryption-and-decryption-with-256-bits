@@ -3,12 +3,9 @@ Basically project is based on cryptography and network security. We successfully
 Recommended to used Linux based machine to avoid unexpected errors.
 
 
-System: Kali linux on Oracle VirtualBox
-
-python version : 3.10.1
-
-library used:
-
+System: Kali linux on Oracle VirtualBox  
+python version : 3.10.1  
+library used:  
 numpy 1.13.3  
 pillow 9.0.0  
 pycryptodome 3.12.0  
