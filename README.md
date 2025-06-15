@@ -9,7 +9,8 @@
 
     Python Version: 3.10.1
 
-  📦 Python Libraries Used
+📦 Python Libraries Used
+
     NumPy - v1.13.3
     
     Pillow (PIL) - v9.0.0
@@ -18,7 +19,7 @@
 
     Tkinter - (Built-in for GUI)
 
-  🔄 Workflow
+🔄 Workflow
     1. 🔍 Image Selection
     Choose an image file from your system using a GUI file dialog.
     
@@ -32,7 +33,7 @@
       
   Time taken depends on image resolution and system resources.
 
-  📁 Output Files Generated
+📁 Output Files Generated
     Secret Image – The core encrypted image file.
     
   Visual Encryption Image – A watermarked or visually altered version for verification.
@@ -41,14 +42,14 @@
     
   project.crypt – Final fully encrypted image file with AES-256.
 
-  🔓 Decryption Process
+🔓 Decryption Process
     Select the previously encrypted file (project.crypt).
     
   Enter the same password used during encryption.
     
   The image is decrypted and restored to its original format.
 
-  🛡️ Key Features
+🛡️ Key Features
     🔐 AES-256 Encryption – Industry-grade symmetric key encryption.
     
   🖼️ Image-based Security – Focused on securing visual data.
@@ -62,7 +63,7 @@
   📸 Screenshots (Optional)
     Add GUI or command-line screenshots here to showcase the encryption and decryption process.
 
-  🧑‍💻 Future Enhancements
+🧑‍💻 Future Enhancements
     Support for video encryption.
     
   Multi-user authentication.
@@ -71,10 +72,10 @@
     
   Web or mobile-based interface.
 
-  📚 References
+📚 References
     AES Standard Documentation (NIST)
     
   PyCryptodome Documentation
-
+  
 👨‍🏫 Author & Credits
-This project was developed as part of a Cryptography & Network Security course to demonstrate secure image handling and encryption techniques using Python and AES-256.
+  This project was developed as part of a Cryptography & Network Security course to demonstrate secure image handling and encryption techniques using Python and AES-256.
